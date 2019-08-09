@@ -27,7 +27,7 @@ paginate: 5
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-merlot
+theme: jekyll-theme-hydeout
 plugins:
   - jekyll-feed
   - jekyll-gist
